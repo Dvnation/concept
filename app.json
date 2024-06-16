@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "concept",
+    "slug": "bible",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "736d46c1-984e-4261-8e1f-776ae1ad0d23"
+      }
+    },
+    "android": {
+      "package": "com.dvnation.concept"
+    },
+    "owner": "dvnationrex"
+  }
+}

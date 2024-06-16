@@ -1,0 +1,50 @@
+.Part3{
+    width: 100%;
+    height: 10vh;
+    justify-content: center;
+    align-items: center;
+    margin-top: 26em;
+    }
+    
+    table {
+    border: 2px solid forestgreen;
+    height: 300px;
+    width: 70em;
+    zoom: 0.9
+    }
+    
+    th {
+   
+border: 1px solid black;
+
+    }
+    
+    td {
+    text-align:center;
+    height: 150px;
+   
+    vertical-align: baseline;
+    border-width: thin;
+    padding: 30px;
+    display: inline-flex;
+    }
+
+    .initiate{
+padding:8px;
+position: relative;    }
+    
+.calculate2{
+padding-left: 500px;
+
+}
+
+.mainStyle{
+
+    display: flow-root;
+    margin-inline: 20em;
+}
+
+tr{
+    line-height: 30px;
+   
+}

@@ -1,0 +1,147 @@
+ body {
+  height: 96vh;
+  /* margin: 30px; */
+   /* margin-bottom: 1.5em; */
+  /* margin-top: 0em;  */
+  
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: visible;
+}
+
+.mank{
+  padding-right: 40px;
+  list-style: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+Nav{
+width:29em
+
+}
+
+.links{
+  /* margin-right: 30px; */
+text-decoration: none;
+
+
+
+
+}
+
+.buttons{
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 3px;
+  margin-right: 1em;
+  width: 90px;
+
+transition-duration: 0.4s;
+/* cursor: pointer; */
+/* margin-right: 30px; */
+/* text-decoration: none; */
+
+
+}
+
+.button1{
+  background-color: white;
+  color:black;
+  border: 2px solid brown;
+}
+
+.button1:hover{
+  background-color: brown ;
+  color:white
+}
+
+.button2{
+  background-color: white;
+  color:black;
+  border: 2px solid rgb(9, 185, 244);
+}
+
+.button2:hover{
+  background-color: rgb(9, 185, 244) ;
+  color:white
+}
+
+.button3{
+  background-color: white;
+  color:black;
+  border: 2px solid green;
+}
+
+.button3:hover{
+  background-color: green ;
+  color:white
+}
+
+
+
+/* h1{
+  width: 20em;
+}
+
+h2{
+  width: 20em;
+}
+
+h4{
+  width: 20em;
+} */
+
+
+.gpButton{
+  background-color: lightgreen;
+  height: fit-content;
+  margin-right: 2%;
+margin-top: 6px;
+
+}
+
+button{
+  border-radius: 5px;
+  box-shadow: 0.3px 1px ;
+  position: relative;
+  transition-duration: 0.4s;
+
+}
+
+.button:hover{
+background-color: brown;
+color: white;
+}
+
+.gpButtonDiv{
+  display: flex;
+  width: 41em;
+}
+
+.Update{
+width:35em;
+margin-right: -2em;
+margin-top: 12px;
+}
+
+.cumDiv{
+  display: inline-flex;
+  width:75em
+}
+
+#root{
+  margin-top: 0em;
+}
